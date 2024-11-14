@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\obj\Debug\practicaIA-iverson.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\obj\Debug\ReconocimientoVoz.Form1.resources
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\obj\Debug\practicaIA_iverson.Properties.Resources.resources
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\obj\Debug\practicaIA-iverson.csproj.GenerateResource.cache
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\obj\Debug\practicaIA-iverson.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\bin\Debug\practicaIA-iverson.exe.config
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\bin\Debug\practicaIA-iverson.exe
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\bin\Debug\practicaIA-iverson.pdb
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\obj\Debug\practicaIA-iverson.exe
+C:\Users\User\source\repos\practicaIA-iverson\practicaIA-iverson\obj\Debug\practicaIA-iverson.pdb
